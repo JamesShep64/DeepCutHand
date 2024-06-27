@@ -7,7 +7,7 @@ identity:
 
 
 # Project path (change when moving around)
-project_path: /home/jamesshep/Desktop/handtrack-james-2024-06-24
+project_path: /home/jamesshep/csce314/deepCut/rat-james-2024-06-24
 
 
 # Default DeepLabCut engine to use for shuffle creation (either pytorch or tensorflow)
@@ -45,6 +45,9 @@ bodyparts:
 - radius
 - ulna
 - elbow
+
+
+# Fraction of video to start/stop when extracting frames for labeling/refinement
 
 
 # Fraction of video to start/stop when extracting frames for labeling/refinement
